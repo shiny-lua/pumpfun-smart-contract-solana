@@ -115,7 +115,7 @@ Swap (involved team fee) Tx: [`TrzFL5aMu6vGEdFHhpHiDQhYrCYEmo4swSDLrN7avxSQwP3Lr
 Meteora Migration Tx: [`496nHgdFz5QYR4ah1pTsmnkQJSMiF8Z3FaJhSNgQKaHp5UFL1rQekdEoUG7vWRozSKg3YHJivQsHZk7b8TxfnUVU`](https://solscan.io/tx/496nHgdFz5QYR4ah1pTsmnkQJSMiF8Z3FaJhSNgQKaHp5UFL1rQekdEoUG7vWRozSKg3YHJivQsHZk7b8TxfnUVU?cluster=devnet)
 
 
-For questions, need help, or feedback, please reach out via Email : davidkano.dk@gmail.com or Telegram: [asseph_1994](https://t.me/asseph_1994)
+For questions, need help, or feedback, please reach out via Email : i3.lua.fly@gmail.com or Telegram: [i3_sol](https://t.me/i3_sol)
 
 
 
